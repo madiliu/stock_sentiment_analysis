@@ -1,2 +1,5 @@
-# stock_sentiment_analysis
-For COMSW 6156
+# Deciphering Market Sentiments: A Comparative Study of Sentiment Analysis Models on Financial News
+
+Name: Chia-Mei Liu
+UID: cl4424
+Email: cl4424@columbia.edu
